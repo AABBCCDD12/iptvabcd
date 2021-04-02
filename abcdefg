@@ -1,0 +1,112 @@
+#EXTM3U
+#EXTINF:-1,英国MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,韩国TJB SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1,法国法国新闻
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1,法国法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1,加拿大CME 财经一号
+http://69.57.222.151:8082/45/stream.m3u8
+#EXTINF:-1,ViuTVsix
+http://61.238.6.49:8000/bysid/96
+#EXTINF:-1,ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1,MTV音乐
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1,日本QVC
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1,韩国EBS第一频道
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,韩国EBS少儿频道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,韩国阿里郎WORLDworld
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,Darcizzle电视
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1,CBS新闻
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,MY3
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1,韩国MBC频道
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1,韩国EBS第一频道
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1,韩国EBS第二频道
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1,韩国EBS加一频道
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1,韩国EBS加二频道
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1,韩国EBSE频道
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+#EXTINF:-1,CGNTV日本
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w564190259.m3u8
+#EXTINF:-1,CGNTV韩国
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist_w1604760015.m3u8
+#EXTINF:-1,日本lDX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1,218 News
+http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Atameken
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/chunklist.m3u8
+#EXTINF:-1,The Outdo
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+#EXTINF:-1,TBS 韩国频道
+http://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
+#EXTINF:-1,FTVLIVE
+http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
+#EXTINF:-1,Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,美国Fox
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1,日本新闻24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1,ArirangTV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,越南坚江频道
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1,LOVE NATURE 4K
+http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/playlist.m3u8
+#EXTINF:-1,MEDIACORP
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1,半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1,NHK24
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1,法国24台英语
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,俄罗斯IGITV蓝光
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,俄罗斯ТВTV蓝光
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+#EXTINF:-1,新加坡
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1,日本l全天新闻
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1,ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1,越南和平HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1,泰国lNBT 曼谷频道
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1,韩国 Ⅰ BBS佛教广播
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+#EXTINF:-1,韩国 Ⅰ 阿里郎WORLD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+#EXTINF:-1,韩国lKCTV中央台
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1,韩国lKTV 韩国电视
+http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
+#EXTINF:-1,韩国lEBS 儿童频道
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1,蒙古国lMNB
+http://103.14.38.107:1935/live/mnb.stream/master.m3u8
+#EXTINF:-1,阿尔巴利亚
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:-1,美国  狗狗宠物
+http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1,彭博财经
